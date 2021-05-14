@@ -1,6 +1,6 @@
 <?php
 /** ******************** HLAVICKA SKRIPTU ******************** **/
-/** PROJEKT 1:      Analayzator kodu IPPcode20                 **/
+/** PROJEKT 1:      Analyzator kodu IPPcode20                  **/
 /** VERZIA:         1.0                                        **/
 /** AUTOR:          Lubos Bever                                **/
 /** DATUM:          04.03.2020                                 **/

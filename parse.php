@@ -2,7 +2,7 @@
 /** ******************** HLAVICKA SKRIPTU ******************** **/
 /** PROJEKT 1:      Analayzator kodu IPPcode20                 **/
 /** VERZIA:         1.0                                        **/
-/** AUTOR:          Lubos Vajcovec, xvajco00@stud.fit.vutbr.cz **/
+/** AUTOR:          Lubos Bever                                **/
 /** DATUM:          04.03.2020                                 **/
 /** PREDMET:        Principy programovacich jazykov a OOP      **/
 /** ********************************************************** **/
